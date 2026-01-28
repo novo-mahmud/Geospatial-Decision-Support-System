@@ -100,9 +100,12 @@ This project is licensed under the MIT License - see LICENSE file for details.
 
 ### Md. Mahmudul Hasan Novo
 
-Built for Marketing Agency Analytics.
+Built for Research Purpose
+.
 LinkedIn: https://www.linkedin.com/in/novo-mahmud
+
 GitHub: https://github.com/novo-mahmud
+
 Email: novomahmud@gmail,com
 
 ---

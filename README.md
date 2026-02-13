@@ -7,6 +7,8 @@ Based on our iterative development process, here is a comprehensive overview of 
 
 This is a custom-built **Web-based Geospatial Decision Support Tool** hosted on the Google Earth Engine (GEE) platform. Unlike static GIS software, this app connects directly to Google's massive cloud satellite archive to generate spectral indices and visualize data in an interactive interface.
 
+*Visit the link to directly access the web app: [Live App](https://novomahmud.users.earthengine.app/view/gdss)*
+
 ---
 
 ## Core Functionality
